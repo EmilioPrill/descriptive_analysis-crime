@@ -27,6 +27,10 @@ As you can read in the [Notebook](https://github.com/w2sleepy/descriptive_analys
 
 -Datetime Transformation
 
+## Data Exploration
+I performed univariate analysis on the Data using bar charts and pie plots, as well as bivariate analysis and descriptive statistics techniques.
+
+
 ## Summary of the results of the analysis
 -The three most dangerous parts of the city are: Centra, Southwest, and 77th Street.
 
