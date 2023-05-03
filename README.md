@@ -20,7 +20,7 @@ As you can read in the [Notebook](https://github.com/w2sleepy/descriptive_analys
 -Outlier treatment
 -Datetime Transformation
 
-##Summary of the results of the analysis
+## Summary of the results of the analysis
 -The three most dangerous parts of the city are: Centra, Southwest, and 77th Street.
 -The three most common crimes in the city are: Battery - Simple Assault, Burglary from Vehicle, and Theft of Identity.
 -Friday has the highest crime rate out of all days of the week.
